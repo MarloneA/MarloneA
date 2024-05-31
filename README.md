@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about crafting high-quality softwar
 
 I’m a software developer based in Kenya with over 7 years of professional experience. I specialize in full-stack development and have a strong background in both frontend and backend technologies. Here’s a bit more about me:
 
-- 🔹 Enthusiastic about modern web technologies
+- 🔹 Enthusiastic about modern technologies
 - 🔹 Advocate for clean code and best practices
 - 🔹 Lifelong learner and tech enthusiast
 
@@ -24,7 +24,7 @@ I’m a software developer based in Kenya with over 7 years of professional expe
 
 ## 💼 Skills & Expertise
 
-### Frontend Development
+###### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -33,7 +33,7 @@ I’m a software developer based in Kenya with over 7 years of professional expe
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![ShadcnUI](https://img.shields.io/badge/ShadcnUI-20232A?style=flat&logo=styled-components&logoColor=61DAFB)
 
-### Backend Development
+###### Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -42,26 +42,26 @@ I’m a software developer based in Kenya with over 7 years of professional expe
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### Fullstack Development
+###### Fullstack Development
 ![Next.js App Router](https://img.shields.io/badge/Next.js_App_Router-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Next.js Server Actions](https://img.shields.io/badge/Next.js_Server_Actions-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-### Deployment
+###### Deployment
 ![VPS](https://img.shields.io/badge/VPS-29B2F2?style=flat&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
 
-### Cloud
+###### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-### Version Control
+###### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 
-### Testing
+###### Testing
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2D3748?style=flat&logo=playwright&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
@@ -69,7 +69,7 @@ I’m a software developer based in Kenya with over 7 years of professional expe
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
-### Scrum & Collaboration
+###### Scrum & Collaboration
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
