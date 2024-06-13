@@ -16,8 +16,8 @@ I’m a software developer based in Kenya with over 7 years of professional expe
 
 ## 📬 Get in Touch
 
-- 🌐 [Website](https://yourwebsite.com) - Learn more about me
-- 📝 [Blog](https://yourblog.com) - Insights and learnings
+- 🌐 [Website](https://www.marlone.tech/) - Learn more about me
+- 📝 [Blog](https://www.marlone.tech/blogs) - Insights and learnings
 - 📧 [Newsletter](https://yoursubscriptionlink.com) - Subscribe for tips and updates
 
 ---
@@ -86,7 +86,7 @@ I’m a software developer based in Kenya with over 7 years of professional expe
 
 ## 📫 Contact Me
 
-For quick responses, send me a DM on my [personal website](https://yourwebsite.com). Let's connect and build something amazing together!
+For quick responses, send me a DM on my [personal website](https://www.marlone.tech/contact). Let's connect and build something amazing together!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
