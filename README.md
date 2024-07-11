@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about crafting high-quality softwar
 
 ## 🚀 About Me
 
-I’m a software developer based in Kenya with over 7 years of professional experience. I specialize in full-stack development and have a strong background in both frontend and backend technologies. Here’s a bit more about me:
+I’m a software developer based in Kenya. I specialize in full-stack development and have a strong background in both frontend and backend technologies. Here’s a bit more about me:
 
 - 🔹 Enthusiastic about modern technologies
 - 🔹 Advocate for clean code and best practices
