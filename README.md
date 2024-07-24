@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Marlone
 
-### 🌍 Kenya | 💻 Software Developer | 🚀 7+ Years Experience
+### 🌍 Kenya | 💻 Software Developer |
 
 Welcome to my GitHub profile! I'm passionate about crafting high-quality software solutions. Let's connect and collaborate!
 
